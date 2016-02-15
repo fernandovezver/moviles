@@ -1,0 +1,42 @@
+[
+	{
+		"medicamento":"A GRIN",
+		"sustancia":"VITAMINA A",
+		"FFarmaceutica":"CAPSULAS",
+		"Presentacion":"Ninguna",
+		"Laboratorio":"Laboratorios Grin",
+		"PPromedio":"100"
+	},
+	{
+		"medicamento":"A.F. Valdecasas",
+		"sustancia":"Acido Folico",
+		"FFarmaceutica":"Solucion",
+		"Presentacion":"1 Frasco 120 ml",
+		"Laboratorio":"Valdecasas",
+		"PPromedio":"100"
+	},
+	{
+		"medicamento":"Accocit",
+		"sustancia":"Cisplatino",
+		"FFarmaceutica":"Solucion inyectable",
+		"Presentacion":"Solucion inyectable",
+		"Laboratorio":"Accord Farma",
+		"PPromedio":"100"
+	},
+	{
+		"medicamento":"Actonel trio",
+		"sustancia":"Calcio",
+		"FFarmaceutica":"Grageas",
+		"Presentacion":"1 caja 4 graceas",
+		"Laboratorio":"Sanofi-Aventis",
+		"PPromedio":"100"
+	},
+	{
+		"medicamento":"ACUAFIL OFTENO",
+		"sustancia":"ALCOHOL POLIVINILICO",
+		"FFarmaceutica":"SOLUCION",
+		"Presentacion":"1 CAJA 1 FRASCO GOTERO",
+		"Laboratorio":"SOPHIA",
+		"PPromedio":"100"
+	}
+]
