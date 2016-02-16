@@ -1,0 +1,27 @@
+[
+	{
+		"tittle":"Casa embrujada por A.Mendez",
+		"description":"Esta casa fue habitada por un hombre el cual en su época tenía mucho conocimiento sin compartir",
+		"image":"Image1"
+	},
+	{
+		"tittle":"Casa en Egipto",
+		"description":"Casa bonita en forma piramidal construida por un viejo ingeniero egipcio que vino de visita a México",
+		"image":"Image2"
+	},
+	{
+		"tittle":"Casa club",
+		"description":"Esta casa club fue construida por exatecs",
+		"image":"Image3"
+	},
+	{
+		"tittle":"Edificio de ingenieria",
+		"description":"Este edificio sirve como refugio para varios sin hogar",
+		"image":"Image4"
+	},
+	{
+		"tittle":"Casa en solares",
+		"description":"Casa con 4 habitaciones totalmente amueblada",
+		"image":"Image5"
+	}
+]
