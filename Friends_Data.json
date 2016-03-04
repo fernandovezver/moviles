@@ -1,0 +1,37 @@
+[
+	{
+		"name":"Rodolfo",
+		"hobby":"Jugar LOL",
+		"age":"21",
+		"phone":"34124234",
+		"address":"Maza"
+	},
+	{
+		"name":"Andru",
+		"hobby":"Jugar LOL",
+		"age":"20",
+		"phone":"2321412",
+		"address":"Guadalajara"
+	},
+	{
+		"name":"Renato",
+		"hobby":"Jugar LOL",
+		"age":"20",
+		"phone":"23144214",
+		"address":"Manzanillo"
+	},
+	{
+		"name":"Diego",
+		"hobby":"Valer",
+		"age":"50",
+		"phone":"324143214",
+		"address":"Guadalajara"
+	},
+	{
+		"name":"Isaac",
+		"hobby":"Jugar LOL",
+		"age":"20",
+		"phone":"23412341234",
+		"address":"Tepi"
+	}
+]
