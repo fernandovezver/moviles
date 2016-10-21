@@ -1,22 +1,27 @@
 [
 	{
 		"name":"Rodolfo",
-		"password":"rodolfo123"
+		"password":"rodolfo123",
+		"color":"red"
 	},
 	{
 		"name":"Andru",
-		"password":"andru123"
+		"password":"andru123",
+		"color":"black"
 	},
 	{
 		"name":"Renato",
-		"password":"renato123"
+		"password":"renato123",
+		"color":"blue"
 	},
 	{
 		"name":"Diego",
-		"password":"diego123"
+		"password":"diego123",
+		"color":"yellow"
 	},
 	{
 		"name":"Isaac",
-		"password":"isaac123"
+		"password":"isaac123",
+		"color":"gray"
 	}
 ]
